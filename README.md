@@ -1,3 +1,4 @@
 # AI-Project
 This is my first repository
-Author - Aditi sen
+<br>
+Author - Aditi Sen (Student)
